@@ -37,23 +37,23 @@
       "sources": [
         {
           "type": "file",
-          "url": "https://raw.githubusercontent.com/adil192/timing_flutter/v1.0.9/flatpak/com.adilhanney.timing.metainfo.xml",
-          "sha256": "63d619d233a5f9dbb8eb50a5f2732248546ee925df88da0994d85e47aadbec1c"
+          "url": "https://raw.githubusercontent.com/adil192/timing_flutter/v1.0.10/flatpak/com.adilhanney.timing.metainfo.xml",
+          "sha256": "56048fb43c37cd8721385c852905955d8814643624b4431f58ec62c680a10ad6"
         },
         {
           "type": "file",
-          "url": "https://raw.githubusercontent.com/adil192/timing_flutter/v1.0.9/flatpak/com.adilhanney.timing.desktop",
-          "sha256": "2dcb23e0764b0fda0bce82f3a7945ae5973d1303ee878dd8701ce5005732d060"
+          "url": "https://raw.githubusercontent.com/adil192/timing_flutter/v1.0.10/flatpak/com.adilhanney.timing.desktop",
+          "sha256": "0669f18a5eb3edb5c992b022bf2821b0821c9e958dca9610695ef3a4dc3e3812"
         },
         {
           "type": "file",
-          "url": "https://raw.githubusercontent.com/adil192/timing_flutter/v1.0.9/assets/icon/icon.svg",
+          "url": "https://raw.githubusercontent.com/adil192/timing_flutter/v1.0.10/assets/icon/icon.svg",
           "sha256": "800accb41aa49c0bb63b5ed756589e1002df07e20233b2530e7f7ed86e5acd0a"
         },
         {
           "type": "file",
-          "url": "https://github.com/adil192/timing_flutter/releases/download/v1.0.9/TimingFlutter-Linux-Portable.tar.gz",
-          "sha256": "ab36df6c7830d314357100cb9edcfb613ddfeba492f7afc6698508b207876b66"
+          "url": "https://github.com/adil192/timing_flutter/releases/download/v1.0.10/TimingFlutter-Linux-Portable.tar.gz",
+          "sha256": "30af5173818be3d069dbaa5f50933abb0e765e6907c8610489013cc275f2faa5"
         }
       ]
     }
