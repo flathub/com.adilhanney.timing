@@ -38,22 +38,46 @@
         {
           "type": "file",
           "url": "https://raw.githubusercontent.com/adil192/timing_flutter/v1.0.12/flatpak/com.adilhanney.timing.metainfo.xml",
-          "sha256": "29ebd91ac492683abe8d635c12e8a3d7bb67730bf035e0d764078038e40b31b0"
+          "sha256": "29ebd91ac492683abe8d635c12e8a3d7bb67730bf035e0d764078038e40b31b0",
+          "x-checker-data": {
+            "type": "json",
+            "url": "https://api.github.com/repos/adil192/timing_flutter/releases/latest",
+            "version-query": ".tag_name",
+            "url-query": "$version | \"https://raw.githubusercontent.com/adil192/timing_flutter/\" + $version + \"/flatpak/com.adilhanney.timing.metainfo.xml\""
+          }
         },
         {
           "type": "file",
           "url": "https://raw.githubusercontent.com/adil192/timing_flutter/v1.0.12/flatpak/com.adilhanney.timing.desktop",
-          "sha256": "0669f18a5eb3edb5c992b022bf2821b0821c9e958dca9610695ef3a4dc3e3812"
+          "sha256": "0669f18a5eb3edb5c992b022bf2821b0821c9e958dca9610695ef3a4dc3e3812",
+          "x-checker-data": {
+            "type": "json",
+            "url": "https://api.github.com/repos/adil192/timing_flutter/releases/latest",
+            "version-query": ".tag_name",
+            "url-query": "$version | \"https://raw.githubusercontent.com/adil192/timing_flutter/\" + $version + \"/flatpak/com.adilhanney.timing.desktop\""
+          }
         },
         {
           "type": "file",
           "url": "https://raw.githubusercontent.com/adil192/timing_flutter/v1.0.12/assets/icon/icon.svg",
-          "sha256": "800accb41aa49c0bb63b5ed756589e1002df07e20233b2530e7f7ed86e5acd0a"
+          "sha256": "800accb41aa49c0bb63b5ed756589e1002df07e20233b2530e7f7ed86e5acd0a",
+          "x-checker-data": {
+            "type": "json",
+            "url": "https://api.github.com/repos/adil192/timing_flutter/releases/latest",
+            "version-query": ".tag_name",
+            "url-query": "$version | \"https://raw.githubusercontent.com/adil192/timing_flutter/\" + $version + \"/assets/icon/icon.svg\""
+          }
         },
         {
           "type": "file",
           "url": "https://github.com/adil192/timing_flutter/releases/download/v1.0.12/TimingFlutter-Linux-Portable.tar.gz",
-          "sha256": "e1f871bf5c4f123c62de86f6adb9993efc73a6ad7bf82590a0be2213065838ee"
+          "sha256": "e1f871bf5c4f123c62de86f6adb9993efc73a6ad7bf82590a0be2213065838ee",
+          "x-checker-data": {
+            "type": "json",
+            "url": "https://api.github.com/repos/adil192/timing_flutter/releases/latest",
+            "version-query": ".tag_name",
+            "url-query": "$version | \"https://github.com/adil192/timing_flutter/releases/download/\" + $version + \"/TimingFlutter-Linux-Portable.tar.gz\""
+          }
         }
       ]
     }
