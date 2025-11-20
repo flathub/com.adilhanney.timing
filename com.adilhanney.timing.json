@@ -24,8 +24,8 @@
 			"sources": [
 				{
 					"type": "file",
-					"url": "https://github.com/adil192/timing_flutter/releases/download/v1.0.16/TimingTrainer_v1.0.16_Linux_x86_64.tar.gz",
-					"sha256": "be44abb7a717c4dc4746e8b71de457d2bc1a082d6febf615579499a6269c1000",
+					"url": "https://github.com/adil192/timing_flutter/releases/download/v1.0.17/TimingTrainer_v1.0.17_Linux_x86_64.tar.gz",
+					"sha256": "a13b9a6a81dd8be71ca507596b807e68cdafbf1238fc79411ea70ff47b3ec6e8",
 					"only-arches": [
 						"x86_64"
 					],
@@ -39,8 +39,8 @@
 				},
 				{
 					"type": "file",
-					"url": "https://github.com/adil192/timing_flutter/releases/download/v1.0.16/TimingTrainer_v1.0.16_Linux_arm64.tar.gz",
-					"sha256": "ff3672680cd93111299973735a897f822091f0885a3d87bf4c2f60784915ec55",
+					"url": "https://github.com/adil192/timing_flutter/releases/download/v1.0.17/TimingTrainer_v1.0.17_Linux_arm64.tar.gz",
+					"sha256": "bd3d0b26f293e02ef684c040a74b1f74d476761c338fe8a8a78cb1cf32e81d6c",
 					"only-arches": [
 						"aarch64"
 					],
