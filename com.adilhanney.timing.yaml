@@ -44,7 +44,7 @@ modules:
         commit: f3cdb876423875b344b7aca2467a9c428673c222
         x-checker-data:
           type: git
-          tag-pattern: ^v([\d.]+)$
+          tag-pattern: ^v([\d.]+(?:\+.*)?)$
       - generated/sources/pubspec.json
     modules:
       - generated/modules/flutter-sdk-3.38.2.json
