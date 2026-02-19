@@ -37,8 +37,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/adil192/timing_flutter.git
-        tag: v1.0.17
-        commit: f3cdb876423875b344b7aca2467a9c428673c222
+        tag: v1.1.0
+        commit: abbf2763345861c08386b112055a03385d542fc0
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+(?:\+.*)?)$
@@ -47,6 +47,6 @@ modules:
       # https://github.com/TheAppgineer/flatpak-flutter/issues/74
       - type: git
         url: https://github.com/flutter/flutter.git
-        tag: 3.38.2
-        commit: f5a8537f90d143abd5bb2f658fa69c388da9677b
+        tag: 3.41.1
+        commit: 582a0e7c5581dc0ca5f7bfd8662bb8db6f59d536
         dest: flutter
