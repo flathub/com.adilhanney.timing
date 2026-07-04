@@ -40,8 +40,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/adil192/timing_flutter.git
-        tag: v1.1.0
-        commit: abbf2763345861c08386b112055a03385d542fc0
+        tag: v1.1.1
+        commit: fcaff29e89a51511de37fc1bc86c18ac53944d25
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+(?:\+.*)?)$
